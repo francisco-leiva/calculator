@@ -14,11 +14,10 @@
 }
 
 .calculator {
-  width: 20rem;
+  width: 100%;
 }
 
 .display-screen {
-  width: 100%;
   margin-bottom: 1rem;
 }
 
